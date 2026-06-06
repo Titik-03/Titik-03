@@ -38,7 +38,7 @@ const GAMAL = {
 
 ### 🎓 42 Network Badge
 
-[![42 stats](https://badge.mediaplus.ma/water/mgamal)](https://github.com/oakoudad/badge42)
+[![42 stats](https://badge.mediaplus.ma/black/mgamal)](https://github.com/oakoudad/badge42)
 
 </div>
 
@@ -145,7 +145,7 @@ graph LR
 ### 🤝 Let's Connect!
 
 [![GitHub](https://img.shields.io/badge/GitHub-Titik--03-181717?style=for-the-badge&logo=github)](https://github.com/Titik-03)
-[![42 Profile](https://img.shields.io/badge/42_Profile-mgamal-000000?style=for-the-badge&logo=42&logoColor=white)](https://github.com/oakoudad/badge42)
+[![42 Profile](https://img.shields.io/badge/42_Profile-mgamal-000000?style=for-the-badge&logo=42&logoColor=white)](https://profile-v3.intra.42.fr/users/mgamal)
 
 ---
 
