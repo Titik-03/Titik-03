@@ -29,7 +29,7 @@ const GAMAL = {
 
     contact: {
         github: "https://github.com/Titik-03",
-        profile42: "your_42_login"
+        profile42: "mgamal"
     }
 };
 ```
@@ -38,7 +38,7 @@ const GAMAL = {
 
 ### 🎓 42 Network Badge
 
-[![42 stats](https://badge.mediaplus.ma/water/your_42_login)](https://github.com/oakoudad/badge42)
+[![42 stats](https://badge.mediaplus.ma/water/mgamal)](https://github.com/oakoudad/badge42)
 
 </div>
 
